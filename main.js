@@ -6,3 +6,7 @@ console.log("This line has a typo: heelo should be hello.");
 console.log("Corrected the typo: heelo to hello.");
 console.log("End of script.");
 console.log("All done!");
+console.log("All done!");
+console.log("All done!");
+console.log("All done!");
+console.log("All done!");
